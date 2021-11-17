@@ -36,6 +36,6 @@ console.log(isPrime(ask));
 
 // Примеры:
 
-1; // false
-7; // true
-10; // false
+// 1; // false
+// 7; // true
+// 10; // false
